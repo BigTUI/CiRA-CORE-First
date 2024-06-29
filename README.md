@@ -56,7 +56,7 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 
 [เปิดอ่าน เอกสารนำเสนอการนำ CiRA CORE ใช้งานใน กฟผ.](https://github.com/BigTUI/CiRA-Image/blob/main/EGAT_Site_Visit_CiRA_LABs.pdf "เอกสารนำเสนอการนำ CiRA CORE ใช้งานใน กฟผ.") <br>
 
-# Training Course by EGAT Staff <br>
+# Training Course by EGAT Staff (EGAT Intranet)<br>
 
 บทเรียนที่ 1 การติดตั้ง CiRA CORE และทดสอบการใช้งานปุ่มคำสั่งง่ายๆ กับการอ่านไฟล์ภาพ และเปิดอ่านไฟล์วีดีโอ [เปิดอ่าน](https://git.egat.co.th/541699/cira-core-basics-level1-001 "บทเรียนที่ 1 การติดตั้ง CiRA CORE และทดสอบการใช้งานปุ่มคำสั่งง่ายๆ กับการอ่านไฟล์ภาพ และเปิดอ่านไฟล์วีดีโอ") <br>
 
