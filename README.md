@@ -36,19 +36,16 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 
 "EGAT and CiRA LABs" เมื่อวันอังคารที่ 11 มิถุนายน 2567 เวลา 10:00-12:00 น. คณะผู้บริหารด้านดิจิทัลของ การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.) นำโดย คุณสมศักดิ์ กล่ำกลาย ผู้ช่วยผู้ว่าการเทคโนโลยีดิจิทัล, คุณคัมภีร์ บริพันธ์ ผู้ช่วยผู้อำนวยการฝ่ายจัดการและพัฒนาระบบดิจิทัล-2, คุณศรีเดช ปัญจขันธ์ หัวหน้ากองบริการดิจิทัลภาคเหนือ, คุณสุริยา ศุกลกิจ หัวหน้ากองบริการดิจิทัลภาคตะวันออกเฉียงเหนือ, คุณปิยะ สมบูรณ์สำราญ หัวหน้ากองปฎิบัติการระบบเครือข่ายและการสื่อสารดิจิทัล, คุณสุรศักดิ์ หล่าวเจริญ นักคอมพิวเตอร์ระดับ 9 กองบริการดิจิทัลภาคเหนือ, คุณเชาวรัตน์ ชำนาญกุล หัวหน้าแผนกบริการดิจิทัลส่วนกลาง 2, คุณปกรณ์ วงศ์ประสิทธิ์ หัวหน้าแผนกบริการดิจิทัลภาคเหนือ 2 (เขื่อนภูมิพล, เขื่อนสิริกิติ์), คุณสุริยา จาดพุ่ม หัวหน้าแผนกบริการดิจิทัลภาคเหนือ 3 (พิษณุโลก), คุณชัยยุทธ แช่มชัย หัวหน้าแผนกบริการดิจิทัลภาคเหนือ 4 (เหมืองแม่เมาะ), คุณสิทธิชัย มิ่งขวัญตา หัวหน้าแผนกบริหารระบบงานดิจิทัลกลางและธุรกิจใหม่ (หบม-ห.), คุณติยพร พุฒิกนก วิศวกรระดับ 8 กองบริหารโครงการและพอร์ตโฟลิโอดิจิทัล, คุณเบญจวรรณ ยอดปลอบ วิทยากรระดับ 8 ฝ่ายปฎิบัติการเทคโนโลยีดิจิทัล, คุณธีระพงษ์ เที่ยงพดุง ช่างระดับ 6 แผนกบริการดิจิทัลภาคตะวันออกเฉียงเหนือ 3, คุณกิตติพัฒน์ แสงแก่นเพ็ชร์ วิศวกรระดับ 6 แผนกปฏิบัติการโครงสร้างพื้นฐานดิจิทัล (หปค-ห.) <br>
 
-ได้เข้าเยี่ยมชมและประชุมหารือความร่วมมือ กับ CiRA Lab โดยมี รศ.ดร.ศิริเดช บุญแสง หัวหน้าโครงการ CiRA CORE KMITL และ คณบดีคณะเทคโนโลยีสารสนเทศ KMITL <br>
+ได้เข้าเยี่ยมชมและประชุมหารือความร่วมมือ กับ CiRA Lab โดยมี รศ.ดร.ศิริเดช บุญแสง หัวหน้าโครงการ CiRA CORE KMITL และ คณบดีคณะเทคโนโลยีสารสนเทศ KMITL และ รศ.ดร.รังสันต์ จอมทะรักษ์ หัวหน้าศูนย์ CiRA Education มหาวิทยาลัยสวนดุสิต และทีมงานให้การต้อนรับ <br>
 
-<a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_011.jpg" target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_011.jpg" width="450"></a> 
-
-และ รศ.ดร.รังสันต์ จอมทะรักษ์ หัวหน้าศูนย์ CiRA Education มหาวิทยาลัยสวนดุสิต และทีมงานให้การต้อนรับ <br>
-<a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" width="450"></a> 
+<a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_011.jpg" target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_011.jpg" width="450"></a> <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" width="450"></a> 
 
 <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_002.jpg" target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_002.jpg" width="450"></a>
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_003.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_004.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_005.jpg" width="250"><br>
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_009.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_007.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_008.jpg" width="250"><br>
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_006.jpg" height="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_010.jpg" height="250">
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_006.jpg" width="250" height="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_010.jpg" width="250" height="250">
 
 [เปิดอ่าน เอกสารนำเสนอการนำ CiRA CORE ใช้งานใน กฟผ.](https://github.com/BigTUI/CiRA-Image/blob/main/EGAT_Site_Visit_CiRA_LABs.pdf "เอกสารนำเสนอการนำ CiRA CORE ใช้งานใน กฟผ.") <br>
 
