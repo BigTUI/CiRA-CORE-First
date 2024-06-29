@@ -4,14 +4,12 @@
  หัวหน้ากองบริการดิจิทัลภาคเหนือ (กบดน-ห.) 
  สังกัดฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย 
 
-<a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" align="left" height="250" width="250" ></a> </p>
-
-![image](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png "Sridetch Pancharkan" {width=250px height=250px})
+![image]<a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" align="left" height="250"></a> </p>
 
 - C i R A - Developer : https://www.facebook.com/profile.php?id=100057872820785
 - CiRA CORE : Community : https://www.facebook.com/groups/cira.core.comm/
 
-![smiley](https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png?raw=true){:height="250px" width="250px"}.
+![image]<a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" align="left" height="250"></a> </p>
 
 ## Getting started
 "CiRA Core" แพลทฟอร์มอัจฉริยะสัญชาติไทย นวัตกรรม "AI" ที่ถูกนำมาใช้ในหลากหลายอุตสาหกรรม
