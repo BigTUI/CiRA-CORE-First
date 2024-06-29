@@ -4,12 +4,12 @@
  หัวหน้ากองบริการดิจิทัลภาคเหนือ (กบดน-ห.) 
  สังกัดฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย 
 
-![image]<a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" align="left" height="250"></a> </p>
+<a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" align="left" height="250"></a> </n>
 
 - C i R A - Developer : https://www.facebook.com/profile.php?id=100057872820785
 - CiRA CORE : Community : https://www.facebook.com/groups/cira.core.comm/
 
-![image]<a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" align="left" height="250"></a> </p>
+<p><a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" align="left" height="250"></a> </p>
 
 ## Getting started
 "CiRA Core" แพลทฟอร์มอัจฉริยะสัญชาติไทย นวัตกรรม "AI" ที่ถูกนำมาใช้ในหลากหลายอุตสาหกรรม
