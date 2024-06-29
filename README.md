@@ -4,6 +4,8 @@
  หัวหน้ากองบริการดิจิทัลภาคเหนือ (กบดน-ห.) 
  สังกัดฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย 
 
+![image](https://github.com/BigTUI/CiRA-CORE-First/assets/14830600/29817cb9-45c4-43f5-ab43-3a44fec14879) (height="250px" width="250px")
+
 <https://github.com/BigTUI/CiRA-Image/blob/main/541699.png height="250px" width="250px"> 
  
 - C i R A - Developer : https://www.facebook.com/profile.php?id=100057872820785
