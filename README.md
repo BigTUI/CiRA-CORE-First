@@ -2,16 +2,16 @@
  นายศรีเดช  ปัญจขันธ์ [เปิดอ่าน](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan "รู้จักกับ ศรีเดช ปัญจขันธ์")
  
  หัวหน้ากองบริการดิจิทัลภาคเหนือ (กบดน-ห.) 
- สังกัดฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย 
- <br>
+ สังกัดฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย <br>
+
  <a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png">
   <img alt="Mr.Sridetch Pancharkan" src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" width="200" />
- </a>
+ </a> <br>
  
 - C i R A - Developer : https://www.facebook.com/profile.php?id=100057872820785
 - CiRA CORE : Community : https://www.facebook.com/groups/cira.core.comm/
 
-<br><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" align="left" height="250" />
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" align="left" height="250" /><br>
 
 ## Getting started
 "CiRA Core" แพลทฟอร์มอัจฉริยะสัญชาติไทย นวัตกรรม "AI" ที่ถูกนำมาใช้ในหลากหลายอุตสาหกรรม
@@ -23,8 +23,10 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 
 ตัวแพลตฟอร์ม CiRA CORE สามารถเชื่อมต่อกับตัว hardware ต่างๆ ได้ และมีส่วนที่เป็น AI ที่เป็นการเรียนรู้แบบ deep learning
 
-![smiley](https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_001.jpg?ref_type=heads){:height="350px"}.
-
+ <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_001.jpg">
+  <img alt="CiRA CORE" src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_001.jpg" height="350" />
+ </a> <br>
+ 
 อ่านข้อมูลเพิ่มเติม https://www.bangkokbiznews.com/lifestyle/892928
 
 ![smiley](https://github.com/BigTUI/CiRA-Image/blob/main/LogoEGAT-only.png?ref_type=heads){:height="150px" width="150px"}.
