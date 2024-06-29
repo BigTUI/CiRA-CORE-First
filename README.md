@@ -43,7 +43,7 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 และ รศ.ดร.รังสันต์ จอมทะรักษ์ หัวหน้าศูนย์ CiRA Education มหาวิทยาลัยสวนดุสิต และทีมงานให้การต้อนรับ <br>
 <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" width="450"></a> 
 
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_002.jpg?ref_type=heads){:height="350px"}.<br>
+<a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_002.jpg target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_002.jpg" width="450"></a>
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_003.jpg" height="250">
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_004.jpg" height="250">
