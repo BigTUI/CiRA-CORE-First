@@ -31,15 +31,15 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
  </a> <br>
  
 อ่านข้อมูลเพิ่มเติม https://www.bangkokbiznews.com/lifestyle/892928 <br>
-<img alt="CiRA CORE" src="https://github.com/BigTUI/CiRA-Image/blob/main/LogoEGAT-only.png" height="150" />
-<img alt="CiRA CORE" src="https://github.com/BigTUI/CiRA-Image/blob/main/55th-EGATLogo-TH-AdsTVC.png" height="150" /> <br>
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/LogoEGAT-only.png" height="150" />
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/55th-EGATLogo-TH-AdsTVC.png" height="150" /> <br>
 
 "EGAT and CiRA LABs" เมื่อวันอังคารที่ 11 มิถุนายน 2567 เวลา 10:00-12:00 น. คณะผู้บริหารด้านดิจิทัลของ การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย (กฟผ.) นำโดย คุณสมศักดิ์ กล่ำกลาย ผู้ช่วยผู้ว่าการเทคโนโลยีดิจิทัล, คุณคัมภีร์ บริพันธ์ ผู้ช่วยผู้อำนวยการฝ่ายจัดการและพัฒนาระบบดิจิทัล-2, คุณศรีเดช ปัญจขันธ์ หัวหน้ากองบริการดิจิทัลภาคเหนือ, คุณสุริยา ศุกลกิจ หัวหน้ากองบริการดิจิทัลภาคตะวันออกเฉียงเหนือ, คุณปิยะ สมบูรณ์สำราญ หัวหน้ากองปฎิบัติการระบบเครือข่ายและการสื่อสารดิจิทัล, คุณสุรศักดิ์ หล่าวเจริญ นักคอมพิวเตอร์ระดับ 9 กองบริการดิจิทัลภาคเหนือ, คุณเชาวรัตน์ ชำนาญกุล หัวหน้าแผนกบริการดิจิทัลส่วนกลาง 2, คุณปกรณ์ วงศ์ประสิทธิ์ หัวหน้าแผนกบริการดิจิทัลภาคเหนือ 2 (เขื่อนภูมิพล, เขื่อนสิริกิติ์), คุณสุริยา จาดพุ่ม หัวหน้าแผนกบริการดิจิทัลภาคเหนือ 3 (พิษณุโลก), คุณชัยยุทธ แช่มชัย หัวหน้าแผนกบริการดิจิทัลภาคเหนือ 4 (เหมืองแม่เมาะ), คุณสิทธิชัย มิ่งขวัญตา หัวหน้าแผนกบริหารระบบงานดิจิทัลกลางและธุรกิจใหม่ (หบม-ห.), คุณติยพร พุฒิกนก วิศวกรระดับ 8 กองบริหารโครงการและพอร์ตโฟลิโอดิจิทัล, คุณเบญจวรรณ ยอดปลอบ วิทยากรระดับ 8 ฝ่ายปฎิบัติการเทคโนโลยีดิจิทัล, คุณธีระพงษ์ เที่ยงพดุง ช่างระดับ 6 แผนกบริการดิจิทัลภาคตะวันออกเฉียงเหนือ 3, คุณกิตติพัฒน์ แสงแก่นเพ็ชร์ วิศวกรระดับ 6 แผนกปฏิบัติการโครงสร้างพื้นฐานดิจิทัล (หปค-ห.) <br>
 
 ได้เข้าเยี่ยมชมและประชุมหารือความร่วมมือ กับ CiRA Lab โดยมี รศ.ดร.ศิริเดช บุญแสง หัวหน้าโครงการ CiRA CORE KMITL และ คณบดีคณะเทคโนโลยีสารสนเทศ KMITL, รศ.ดร.รังสันต์ จอมทะรักษ์ หัวหน้าศูนย์ CiRA Education มหาวิทยาลัยสวนดุสิต และทีมงานให้การต้อนรับ <br>
 
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_011.jpg" height="450" />
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" height="450" /><br>
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_011.jpg" width="450" />
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" width="450" /><br>
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_002.jpg?ref_type=heads){:height="350px"}.<br>
 
