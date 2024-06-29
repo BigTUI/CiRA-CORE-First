@@ -1,13 +1,12 @@
 # CiRA CORE First 
  นายศรีเดช  ปัญจขันธ์ <a href="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio" target="_blank">[เปิดอ่าน]</a>
- 
- หัวหน้ากองบริการดิจิทัลภาคเหนือ <br>
- กองบริการดิจิทัลภาคเหนือ (กบดน-ห.) ฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) <br>
- การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย <br> 
 
  <a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" target="_blank">
   <img  src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" alt="Mr.Sridetch Pancharkan" width="30%">
  </a> <br>
+<H3>หัวหน้ากองบริการดิจิทัลภาคเหนือ <br> </H3>
+ กองบริการดิจิทัลภาคเหนือ (กบดน-ห.) ฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) <br>
+ การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย <br> 
 
  <li><a href="https://www.facebook.com/profile.php?id=100057872820785" target="_blank">  C i R A - Developer :</a>  
  <li> <a href="https://www.facebook.com/groups/cira.core.comm/" target="_blank">  CiRA CORE : Community :</a><br>
