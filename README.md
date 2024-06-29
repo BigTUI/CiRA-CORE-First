@@ -1,4 +1,4 @@
-# CiRA CORE Basics Level1
+# CiRA CORE First 
  นายศรีเดช  ปัญจขันธ์ <a href="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio" target="_blank">[เปิดอ่าน]</a>
  
  หัวหน้ากองบริการดิจิทัลภาคเหนือ (กบดน-ห.) 
