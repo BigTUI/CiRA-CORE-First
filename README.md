@@ -42,7 +42,7 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 
 <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_002.jpg" target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_002.jpg" width="90%"></a>
 
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_003.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_004.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_005.jpg" width="250"><br>
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_003.jpg" width="30%"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_004.jpg" width="30%"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_005.jpg" width="30%"><br>
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_009.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_007.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_008.jpg" width="250"><br>
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_006.jpg" width="400" height="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_010.jpg" width="400">
