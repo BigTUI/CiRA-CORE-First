@@ -27,7 +27,7 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 ตัวแพลตฟอร์ม CiRA CORE สามารถเชื่อมต่อกับตัว hardware ต่างๆ ได้ และมีส่วนที่เป็น AI ที่เป็นการเรียนรู้แบบ deep learning
 
  <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_001.jpg">
-  <img alt="CiRA CORE" src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_001.jpg" height="350" />
+  <img alt="CiRA CORE" src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_001.jpg" width="90%" />
  </a> <br>
  
 อ่านข้อมูลเพิ่มเติม https://www.bangkokbiznews.com/lifestyle/892928 <br>
