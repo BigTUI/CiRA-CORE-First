@@ -4,6 +4,8 @@
  หัวหน้ากองบริการดิจิทัลภาคเหนือ (กบดน-ห.) 
  สังกัดฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย 
 
+<a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" align="left" height="250" width="250" ></a>
+
 ![image](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png "Sridetch Pancharkan" {width=250px height=250px})
 
 - C i R A - Developer : https://www.facebook.com/profile.php?id=100057872820785
