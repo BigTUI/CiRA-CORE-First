@@ -3,7 +3,7 @@
 
  <a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" target="_blank">
   <img  src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" alt="Mr.Sridetch Pancharkan" width="30%">
- </a> <br>
+ </a>  
 <H3>หัวหน้ากองบริการดิจิทัลภาคเหนือ <br> </H3>
  กองบริการดิจิทัลภาคเหนือ (กบดน-ห.) ฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) <br>
  การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย <br> 
