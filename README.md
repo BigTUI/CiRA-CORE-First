@@ -75,7 +75,7 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_02.jpg" width="90%">
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Sridetch.jpg" width="45%">
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Suriya.jpg" width="45%>
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/DEPA_Cira_Core_Certificate_Suriya.jpg" width="45%">
 
 
 
