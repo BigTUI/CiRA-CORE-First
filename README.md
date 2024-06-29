@@ -6,7 +6,7 @@
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" width="30%">
  
- <hr width="200px"/>
+ <hr width="100%"/>
  <li><a href="https://www.facebook.com/profile.php?id=100057872820785" target="_blank">  C i R A - Developer :</a>  
  <li> <a href="https://www.facebook.com/groups/cira.core.comm/" target="_blank">  CiRA CORE : Community :</a><br>
 
