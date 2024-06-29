@@ -9,7 +9,7 @@
  </a> <br>
 
  <li><a href="https://www.facebook.com/profile.php?id=100057872820785" target="_blank">  C i R A - Developer :</a>  
- <li> <a href="https://www.facebook.com/groups/cira.core.comm/" target="_blank">  CiRA CORE : Community :</a>
+ <li> <a href="https://www.facebook.com/groups/cira.core.comm/" target="_blank">  CiRA CORE : Community :</a><br>
 
  <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png">
   <img alt="CiRA CORE" src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" height="250" />
