@@ -5,7 +5,7 @@
  สังกัดฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย <br>
 
  <a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" target="_blank">
-  <img alt="Mr.Sridetch Pancharkan" src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" width="30%" />
+  <img alt="Mr.Sridetch Pancharkan" src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" width="30%" border="1">
  </a> <br>
 
  <li><a href="https://www.facebook.com/profile.php?id=100057872820785" target="_blank">  C i R A - Developer :</a>  
