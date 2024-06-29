@@ -1,5 +1,5 @@
 # CiRA CORE Basics Level1
- นายศรีเดช  ปัญจขันธ์ [เปิดอ่าน](https://git.egat.co.th/541699/portfolio-sridetch-pancharkan "รู้จักกับ ศรีเดช ปัญจขันธ์")
+ นายศรีเดช  ปัญจขันธ์ <a href="https://github.com/BigTUI/Sridetch-Pancharkan-Portfolio" target="_blank">[เปิดอ่าน]</a>
  
  หัวหน้ากองบริการดิจิทัลภาคเหนือ (กบดน-ห.) 
  สังกัดฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย <br>
@@ -7,9 +7,9 @@
  <a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png">
   <img alt="Mr.Sridetch Pancharkan" src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" width="200" />
  </a> <br>
- 
-- C i R A - Developer : https://www.facebook.com/profile.php?id=100057872820785
-- CiRA CORE : Community : https://www.facebook.com/groups/cira.core.comm/
+
+ <a href="https://www.facebook.com/profile.php?id=100057872820785" target="_blank">- C i R A - Developer :</a>
+ <a href="https://www.facebook.com/groups/cira.core.comm/" target="_blank">- CiRA CORE : Community :</a>
 
  <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png">
   <img alt="CiRA CORE" src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" height="250" />
@@ -45,7 +45,7 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_003.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_004.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_005.jpg" width="250"><br>
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_009.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_007.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_008.jpg" width="250"><br>
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_006.jpg" width="250" height="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_010.jpg" width="250" height="250">
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_006.jpg" width="400" height="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_010.jpg" width="400">
 
 [เปิดอ่าน เอกสารนำเสนอการนำ CiRA CORE ใช้งานใน กฟผ.](https://github.com/BigTUI/CiRA-Image/blob/main/EGAT_Site_Visit_CiRA_LABs.pdf "เอกสารนำเสนอการนำ CiRA CORE ใช้งานใน กฟผ.") <br>
 
