@@ -41,9 +41,6 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_011.jpg" target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_011.jpg" width="450"></a> 
 <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" target="_blank"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" width="450"></a> 
 
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_011.jpg" width="450">
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_012.jpg" width="450"><br>
-
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_002.jpg?ref_type=heads){:height="350px"}.<br>
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_003.jpg" height="250">
