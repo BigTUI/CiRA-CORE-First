@@ -47,8 +47,8 @@ CiRE CORE พัฒนาโดย วิทยาลัยนวัตกรร
 
 <img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_003.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_004.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_005.jpg" width="250"><br>
 
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_006.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_007.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_008.jpg" width="250"><br>
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_009.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_010.jpg" width="250">
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_009.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_007.jpg" width="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_008.jpg" width="250"><br>
+<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_006.jpg" height="250"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core_010.jpg" height="250">
 
 [เปิดอ่าน เอกสารนำเสนอการนำ CiRA CORE ใช้งานใน กฟผ.](https://github.com/BigTUI/CiRA-Image/blob/main/EGAT_Site_Visit_CiRA_LABs.pdf "เอกสารนำเสนอการนำ CiRA CORE ใช้งานใน กฟผ.") <br>
 
