@@ -11,7 +11,10 @@
 - C i R A - Developer : https://www.facebook.com/profile.php?id=100057872820785
 - CiRA CORE : Community : https://www.facebook.com/groups/cira.core.comm/
 
-<img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" align="left" height="250" /><br>
+ <a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png">
+  <img alt="CiRA CORE" src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" height="250" />
+ </a> <br>
+
 
 <H3> Getting started</H3>
 "CiRA Core" แพลทฟอร์มอัจฉริยะสัญชาติไทย นวัตกรรม "AI" ที่ถูกนำมาใช้ในหลากหลายอุตสาหกรรม
