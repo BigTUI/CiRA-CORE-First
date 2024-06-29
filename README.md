@@ -5,13 +5,10 @@
  สังกัดฝ่ายปฏิบัติการเทคโนโลยีดิจิทัล (อปท.) การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย 
  <br><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" width="200" />
  
-[![BigTUI Sridetch Pancharkan](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png "Sridetch Pancharkan") width="256" height="455"](https://github.com/BigTUI/CiRA-Image/blob/main/541699.png)
-<p><a href="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/541699.png" align="left" height="250"></a> </p>
-
 - C i R A - Developer : https://www.facebook.com/profile.php?id=100057872820785
 - CiRA CORE : Community : https://www.facebook.com/groups/cira.core.comm/
 
-<p><a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" align="left" height="250"></a> </p>
+<br><a href="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png"><img src="https://github.com/BigTUI/CiRA-Image/blob/main/cira_core.png" align="left" height="250"></a>
 
 ## Getting started
 "CiRA Core" แพลทฟอร์มอัจฉริยะสัญชาติไทย นวัตกรรม "AI" ที่ถูกนำมาใช้ในหลากหลายอุตสาหกรรม
